@@ -5,3 +5,5 @@ Simple demo of using Git Flow branching model and automated change log generatio
 Uses:
 * [Git Flow](https://github.com/nvie/gitflow)
 * [standard-version](https://github.com/conventional-changelog/standard-version)
+
+EOF
