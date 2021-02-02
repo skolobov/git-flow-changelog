@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/skolobov/git-flow-changelog/compare/v0.2.0...v0.2.1) (2021-02-02)
+
+
+### Features
+
+* added functionality (DBAAS-4955) ([80c30e9](https://github.com/skolobov/git-flow-changelog/commit/80c30e9185157d62ef9048cb2e6a988246ffca7a))
+
 ## [0.2.0](https://github.com/skolobov/git-flow-changelog/compare/v0.1.2...v0.2.0) (2021-02-02)
 
 
