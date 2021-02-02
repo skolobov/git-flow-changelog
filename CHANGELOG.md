@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/skolobov/git-flow-changelog/compare/v0.1.2...v0.2.0) (2021-02-02)
+
+
+### Features
+
+* add default commitlint config ([46ad645](https://github.com/skolobov/git-flow-changelog/commit/46ad6455efd4a485a295a9d910741955730e358f))
+* enable commit message linting ([0c1ee64](https://github.com/skolobov/git-flow-changelog/commit/0c1ee64d45943a5d4375e5a061b4be8b0f57f276))
+* require JIRA references in commit messages (DBAAS-4703) ([a0ac997](https://github.com/skolobov/git-flow-changelog/commit/a0ac9978c3aa473bd47ed8a9a719b42e2ad1a6a6))
+
 ### [0.1.2](https://github.com/skolobov/git-flow-changelog/compare/v0.1.1...v0.1.2) (2021-02-02)
 
 

@@ -1,11 +1,16 @@
 {
   "name": "git-flow-changelog",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Git Flow and automated change log",
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
     "test": "true"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   },
   "repository": {
     "type": "git",
@@ -18,6 +23,9 @@
   },
   "homepage": "https://github.com/skolobov/git-flow-changelog#readme",
   "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "husky": "^4.3.8",
     "standard-version": "^9.1.0"
   }
 }
